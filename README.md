@@ -30,4 +30,3 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 Miembros del grupo
 
 Daniel R Alonso A - 201419873 - dr.alonso10@uniandes.edu.co
-Nicolas Díaz Montaña - 202021006 - n.diaz9@uniandes.edu.co
